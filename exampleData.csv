@@ -1,0 +1,103 @@
+Ident;Text name;Value
+One;One;1.000
+Two;Two;2.000
+OneHalf;One half;0.003472222222222220000
+Pi;Pi;3.141592653589790
+SQRT2;Square root of 2;1.414213562373090
+SQRT3;Square root of 3;1.732050807568870
+SQRT5;Square root of 5;2.236067977499780
+Phi;PhiGolden ratio;1.618033988749890
+Silver;Silver ratio;2.414213562373090
+Zero;Zero;0.000
+NegOne;Negative one;-1
+Root2;Cube rootof 2 (Delian Constant);1.259921049894870
+Root3;Cube rootof 3;1.442249570307400
+TwelfthRoot2;Twelfth rootof 2;1.059463094359290
+SuperGoldRatio;Supergolden ratio;1.465571231876760
+Wallis;WallisConstant;2.094551481542320
+Euler;Eulers number;2.718281828459040
+Log2;Natural logarithm of 2;0.693147180559945
+Soph1;Sophomores dream1;0.783430510712134
+Soph2;Sophomores dream2;1.291285997062660
+Lemni;Lemniscate constant;2.622057554292110
+Eul_Masch;EulerMascheroni constant;0.577215664901532
+Erdos_Borwein;ErdosBorwein constant;1.606695152415290
+Omega;Omega constant;0.567143290409783
+LaplaceLim;Laplace limit;0.662743419349181
+Gauss;Gausss constant;0.834626841674073
+Ramanujan_Soldner;RamanujanSoldner constant;1.451369234883380
+Hermite;Hermite constant;1.154700538379250
+Lioubille;Liouville number;0.110001000
+Hermite_Ramanujan;HermiteRamanujan constant;262537412640768000.000
+Glaisher_Kinkelin;GlaisherKinkelin constant;1.282427129100620
+Catalans;Catalans constant;0.915965594177219
+Dottie;Dottie number;0.739085133215160
+Meissel_Mertens;MeisselMertens constant;0.261497212847642
+Weierstrass;Weierstrassconstant;0.474949379987920
+Hafner_Sarnak_McCurley;HafnerSarnakMcCurley constant(1);0.607927101854026
+UniParabol;Universal parabolic constant;2.295587149392630
+Cahens;Cahens constant;0.643410546288338
+Aperys;Aperys constant;1.202056903159590
+Gelfonds;Gelfonds constant;23.140692632779200
+Favard;Favard constant;1.233700550136160
+GoldenAngle;Golden angle;2.399963229728650
+Sierpinskis;Sierpinskis constant;2.584981759579250
+Nielsen_Ramanujan;NielsenRamanujanconstant;0.822467033424113
+Gieseking;Gieseking constant;1.014941606409650
+Bernsteins;Bernsteins constant;0.280169499023869
+TwinPrimes;Twin Primes Constant;0.660161815846869
+Bloch_Landau;BlochLandau constant;0.543258965342976
+Plastic;Plastic number;1.324717957244740
+Golomb_Dickman;GolombDickman constant;0.624329988543550
+Feller_Tornier;FellerTornier constant;0.661317049469622
+BaseChampernowne;Base 10Champernowne constant;0.123456789101112
+Gelfond_Schneider;GelfondSchneider constant;2.665144142690220
+Khinchins;Khinchins constant;2.685452001065300
+Khinchin_Levy1;KhinchinLevy constant (1);1.186569110415620
+Khinchin_Levy2;Khinchin-Levy constant (2);3.275822918721810
+Mills;Mills constant;1.306377883863080
+Euler_Gompertz;EulerGompertz constant;0.596347362323194
+VanDerPauw;Van der Pauw constant;4.532360141827190
+MagicAngle;Magic angle;0.955316618124509
+Lochs;Lochs constant;0.970270114392033
+LiebsSquareIce;Liebs square ice constant;1.539600717839000
+Baker;Baker constant;0.835648848264721
+Nivens;Nivens constant;1.705211140105360
+Porters;Porters constant;1.467078079433970
+Feigenbaum1;Feigenbaum constant 1;4.669201609102990
+Chaitins;Chaitins constants;0.007874996997812380000
+Fransen_Robinson;FransenRobinson constant;2.807770242028510
+Robbins;Robbins constant;0.661707182267176
+FractalDimension;Fractal dimension of the Cantor set;0.630929753571457
+Feigenbaum2;Feigenbaum constant 2;2.502907875095890
+Connective;Connective constant;1.847759065022570
+LehmersConjecture;Lehmers conjectureconstant;1.176280818259910
+Chebyshev;Chebyshev constant;0.590170299508048
+Conway;Conway constant;1.303577269034290
+Prevost;Prevost constantReciprocal Fibonacci constant;3.359885666243170
+BrunConstantInverseOfTwin;Brun2constantinverse ofTwin primes;1.902160583104000
+Apollonian;Fractal dimension of the Apollonian packing of circles;1.305686729
+Backhouses;Backhouses constant;1.456074948582680
+TimeConst;Time constant;0.632120558828557
+Viswanath;Viswanath constant;1.131988248794300
+RegularPaperfolding;Regular paperfolding sequence;0.850736188201867
+Komornik_Loreti;KomornikLoreti constant;1.787231650182960
+Artin;Artin constant;0.373955813619202
+MRB;MRB constant;0.187859642462067
+SomosQuadRecurrence;Somos quadratic recurrence constant;1.661687949633590
+Foias1;Foias constant;1.187452351126500
+Foias2;Foias constant 2;2.293166287411860
+DeviccisTesseract;DeViccis tesseract constant;1.007434756884270
+RamanujanNested;Ramanujannested radical;2.747238274932300
+BrunConstantInvprime;Brun4constantinvprime quadruplets;0.870588379975000
+HausdorffDimensionSierpinski;Hausdorff dimensionSierpinski triangle;1.584962500721150
+Heath_Brown_Moroz;Heath-BrownMoroz constant;0.001317641154853170000
+Lebesgue;Lebesgue constant;0.989431273831146
+NdDuBoisReymond;2nd du Bois-Reymond constant;0.194528049465325
+Landau_Ramanujan;LandauRamanujan constant;0.764223653589220
+Stephens;Stephens constant;0.575959968892945
+Taniguchi;Taniguchi constant;0.678234491917391
+Raabes;Raabes formula;0.918938533204672
+Copeland_Erdos;CopelandErdos constant;0.235711131719232
+Kepler_Bouwkamp;KeplerBouwkamp constant;0.114942044853296
+Prouhet_Thue_Morse;ProuhetThueMorse constant;0.412454033640107
